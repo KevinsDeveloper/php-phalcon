@@ -1,0 +1,61 @@
+.float-right { float: right; }
+.martop-5px {margin-top: 5px;}
+.martop-7px {margin-top: 7px;}
+.marbot-15 {margin-bottom: 15px;}
+.padtop-20 {padding-top: 20px;}
+.padbot-20 {padding-bottom: 20px;}
+.padtop-10 {padding-top: 10px;}
+.padbot-10 {padding-bottom: 10px;}
+.padright-10 {padding-right: 10px;}
+.padright-15 {padding-right: 15px;}
+.marright-15 {margin-right: 15px;}
+.breadbutton {margin-right: 15px;}
+.breadbutton a{padding-left: 5px; padding-right: 5px;color: #777;}
+.breadbutton a:hover{color: #000;}
+.ibox-content {padding: 10px 10px 63px 10px;}
+label.error {
+	color: #cc5965;
+    display: inline-block;
+    margin-left: 5px;
+}
+.form-control.error {border: 1px dotted #e74b37;}
+.form-control.valid {border: 1px dotted #9cd584;}
+.form-footer {
+    display: block;
+    clear: both;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0px;
+    z-index: 9999;
+    background: #f5f5f5;
+    border-top: 1px #eee solid;
+    width: 100%;
+    padding-left: 30%;
+    padding-right: 0px;
+    text-align: right;
+}
+.form-footer button {
+	margin-right: 10px;
+}
+
+.bordered-berry {border-bottom: 3px solid #ccc}
+.modal-dialog {width: 300px;}
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th {padding: 8px; vertical-align: middle;word-break:break-all; word-wrap:break-word;}
+.table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {padding: 5px; vertical-align: middle;word-break:break-all; word-wrap:break-word;}
+
+.padding-label label {padding-right: 10px;}
+.thumb_list {
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    width: 100px;
+}
+.thumb_list .remove {margin-top: 5px;}
+.float-left {
+    float:left;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+.form-group .control-label {padding-top: 6px;}
